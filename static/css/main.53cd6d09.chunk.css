@@ -1,0 +1,2 @@
+.App{text-align:center}.buttonBox{display:grid;justify-content:center;grid-template-columns:repeat(3,minmax(100px,200px));grid-gap:20px;gap:20px}.buttonBox__button{height:100px;background-color:transparent;border:1px solid grey;border-radius:8px;color:grey;font-size:18px;font-weight:700;transition:background-color .2s}.buttonBox__button:hover{pointer-events:visible;background-color:grey;color:#fff}.clock__title{color:grey}
+/*# sourceMappingURL=main.53cd6d09.chunk.css.map */
